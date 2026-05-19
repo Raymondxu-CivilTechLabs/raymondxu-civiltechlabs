@@ -23,11 +23,14 @@
   </a>
 </p>
 
+---
 
 ### 🎓 Profile
-Ph.D. Candidate in Structural Engineering at Southwest Jiaotong University, currently a Joint Ph.D. Researcher at Politecnico di Milano.
 
-My research bridges the gap between advanced civil engineering materials and data-driven computational mechanics. I focus on developing AI-enhanced multi-scale simulation frameworks to predict the performance of high-performance cementitious materials under extreme conditions, with applications in national mega-projects.
+- Ph.D. Candidate in Structural Engineering at Southwest Jiaotong University, currently a Joint Ph.D. Researcher at Politecnico di Milano.
+
+- My research bridges the gap between advanced civil engineering materials and data-driven computational mechanics. I focus on developing AI-enhanced multi-scale simulation frameworks to predict the performance of high-performance cementitious materials under extreme conditions, with applications in national mega-projects.
+
 ---
 
 ### 🔬 Research Focus

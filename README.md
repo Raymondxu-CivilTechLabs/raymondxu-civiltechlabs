@@ -1,3 +1,6 @@
+
+![Metrics](https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 # 👋 Hello, I'm Xuefeng (Raymond) Xu
 
 **Joint Ph.D. researcher** in Structural Engineering at Southwest Jiaotong University (SWJTU) and Politecnico di Milano. 

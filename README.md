@@ -19,7 +19,7 @@
   <br/>
 
   <a href="https://github.com/Raymondxu-CivilTechLabs">
-      <img src="https://github-stats-alpha.vercel.app/api?username=tjboise&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+      <img src="https://github-stats-alpha.vercel.app/api?username=Raymondxu-CivilTechLabs&cc=22272e&tc=37BCF6&ic=fff&bc=000000">
   </a>
 </p>
 

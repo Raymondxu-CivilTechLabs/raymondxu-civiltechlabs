@@ -5,8 +5,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=400&lines=Xuefeng+Xu%7CStructural+Engineering%7CAI+Researcher" />
+  
   <br/>
-
+<a href="https://www.raymondxu.top/">
+    <img src="https://img.shields.io/badge/Website-personal-red?style=flat-square">
+</a>  
   <a href="mailto:xuefeng.xu@mail.polimi.it">
     <img src="https://img.shields.io/badge/Email-Academic-red?style=flat-square&logo=gmail">
   </a>
@@ -81,6 +84,7 @@ I bridge the gap between **fundamental civil engineering** and **advanced AI**. 
 ---
 
 ### 🤝 Connect with Me
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hi_raymondxu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xuefeng-xu-599665403)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RaymondxuLab)
@@ -90,6 +94,7 @@ I bridge the gap between **fundamental civil engineering** and **advanced AI**. 
 
 ---
 *Support my open-source research efforts:*
+
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raymondxu)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XuXuefeng355)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/raymondxu)

@@ -1,7 +1,25 @@
 
-![Metrics](https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 
 # 👋 Hello, I'm Xuefeng (Raymond) Xu
+
+### 🚀 极简学术排版参考
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=400&lines=Xuefeng+Xu%7CStructural+Engineering%7CAI+Researcher" />
+  <br/>
+
+  <a href="mailto:xuefeng.xu@mail.polimi.it">
+    <img src="https://img.shields.io/badge/Email-Academic-red?style=flat-square&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/xuefeng-xu-599665403">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin">
+  </a>
+  <br/>
+
+  <img src="https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=tokyonight&show_icons=true&include_all_commits=true">
+</p>
+
 
 **Joint Ph.D. researcher** in Structural Engineering at Southwest Jiaotong University (SWJTU) and Politecnico di Milano. 
 

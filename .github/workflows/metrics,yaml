@@ -2,16 +2,20 @@ name: Metrics
 on:
   schedule: [{cron: "0 0 * * *"}] # 每天自动更新一次
   workflow_dispatch:
+  push: {branches: ["main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 必须，否则无法推送图片到 README
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }} # 需要你在GitHub设置一个Token
-          user: 你的GitHub用户名
+          token: ${{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}} # 需要你在GitHub设置一个Token
+          user: Raymondxu-CivilTechLabs
+          filename: metrics.svg
           template: classic
-          base: header, repositories
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex # 隐藏掉杂乱的辅助语言

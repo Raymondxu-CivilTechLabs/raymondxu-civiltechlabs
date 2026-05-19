@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          token: ${{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}} # 需要你在GitHub设置一个Token
+          token: ${{ secrets.METRICS_TOKEN }} # 需要你在GitHub设置一个Token
           user: Raymondxu-CivilTechLabs
           filename: metrics.svg
           template: classic

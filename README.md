@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&width=400&lines=Xuefeng+Xu%7CStructural+Engineering%7CAI+Researcher" />
   
   <br/>
-<a href="https://www.raymondxu.top/">
-    <img src="https://img.shields.io/badge/Website-personal-red?style=flat-square">
-</a>  
+  <a href="https://www.raymondxu.top/">
+      <img src="https://img.shields.io/badge/Website-personal-red?style=flat-square">
+  </a>  
   <a href="mailto:xuefeng.xu@mail.polimi.it">
     <img src="https://img.shields.io/badge/Email-Academic-red?style=flat-square&logo=gmail">
   </a>
@@ -18,9 +18,10 @@
   </a>
   <br/>
 
-  <img src="https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=tokyonight&show_icons=true&include_all_commits=true">
+  <a href="https://github.com/Raymondxu-CivilTechLabs">
+      <img src="https://github-stats-alpha.vercel.app/api?username=tjboise&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  </a>
 </p>
-
 
 **Joint Ph.D. researcher** in Structural Engineering at Southwest Jiaotong University (SWJTU) and Politecnico di Milano. 
 

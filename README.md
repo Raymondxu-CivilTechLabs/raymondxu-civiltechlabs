@@ -1,28 +1,46 @@
-# 💫 About Me:
-### 👨‍🔬 About Me<br>- 🎓 **Joint Ph.D. researcher** in Structural Engineering at Southwest Jiaotong University (SWJTU) and Politecnico di Milano.<br>- 🔬 Focusing on the intersection of **AI, Multi-scale Simulation, and High-Performance Civil Materials**.<br>- 📝 Author of **10+ SCI papers** (CBM, Structures) and independent reviewer for top-tier international journals.<br>- 🌍 Currently based in Milan, Italy.<br><br>### 🔭 Currently Working On<br>- Developing **data-driven + physics-informed models (PINNs)** to predict the performance of advanced fiber-reinforced cementitious materials under extreme multi-field coupling environments (e.g., high-temperature geothermal and freeze-thaw conditions).<br>- Translating fundamental research into practical applications for national mega-projects (CZ, YX projects).<br><br>### 🤝 Looking to Collaborate On<br>- Open-source projects related to **Material Informatics**, **Machine Learning in Civil Engineering**, and automated multi-scale characterization of concrete materials.<br><br>### 💡 Currently Learning & Exploring<br>- Advanced deep learning techniques for constitutive modeling, uncertainty quantification (UQ), and optimizing Python/C++ scripts for large-scale multi-physics simulations.<br><br>### 💬 Ask Me About<br>- Basalt fiber-reinforced concrete (BFRC), rheology of grouting materials, multi-scale material testing, and **bridging the gap between lab research and mega-project site applications**.<br><br>### ⚡ Fun Fact<br>- I'm a massive fan of football, basketball, and badminton! ⚽🏀🏸 I believe tackling complex engineering problems requires the same teamwork, strategy, and stamina as winning a match on the field.<br><br>---
+# 👋 Hello, I'm Xuefeng (Raymond) Xu
 
+**Joint Ph.D. researcher** in Structural Engineering at Southwest Jiaotong University (SWJTU) and Politecnico di Milano. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hi_raymondxu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xuefeng-xu-599665403) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RaymondxuLab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/goRaymondXu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xuefeng.xu@mail.polimi.it) 
-
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Raymondxu-CivilTechLabs&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raymondxu-CivilTechLabs&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Raymondxu-CivilTechLabs&theme=merko&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Raymondxu-CivilTechLabs&limit=5&theme=vue&combine_all_yearly_contributions=true)
+I bridge the gap between **fundamental civil engineering** and **advanced AI**. My research focuses on developing **data-driven + physics-informed models (PINNs)** to predict the performance of advanced cementitious materials under extreme multi-field coupling environments.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Raymondxu-CivilTechLabs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raymondxu) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/XuXuefeng355) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/raymondxu) 
+### 🔬 Research Focus
+- **AI for Science**: Physics-informed Machine Learning (PINN) for material constitutive modeling.
+- **Multi-scale Simulation**: Bridging macro-mechanical properties with microscopic mechanisms.
+- **Extreme Environment Engineering**: Durability of materials in high-temperature and freeze-thaw conditions.
+- **Mega-project Application**: Translating laboratory breakthroughs into field-scale industrial applications.
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Core Tech Stack
+*For high-performance computing, numerical simulation, and AI model development:*
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat-square&logo=fortran&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23E34F26.svg?style=flat-square&logo=matlab&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=flat-square&logo=nVIDIA&logoColor=green)
+![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=latex&logoColor=white)
+
+---
+
+### 📊 Research & GitHub Activity
+![](https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=vue&hide_border=false)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Raymondxu-CivilTechLabs&theme=vue&hide_border=false&layout=compact)
+
+---
+
+### 🤝 Connect with Me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:xuefeng.xu@mail.polimi.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xuefeng-xu-599665403)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/RaymondxuLab)
+
+---
+*Support my open-source research efforts:*
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/raymondxu)

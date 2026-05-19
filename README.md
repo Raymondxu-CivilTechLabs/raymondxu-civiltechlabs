@@ -23,10 +23,10 @@
   </a>
 </p>
 
-**Joint Ph.D. researcher** in Structural Engineering at Southwest Jiaotong University (SWJTU) and Politecnico di Milano. 
 
-I bridge the gap between **fundamental civil engineering** and **advanced AI**. My research focuses on developing **data-driven + physics-informed models (PINNs)** to predict the performance of advanced cementitious materials under extreme multi-field coupling environments.
+- 🎓 Ph.D. Candidate in Structural Engineering at Southwest Jiaotong University, currently a Joint Ph.D. Researcher at Politecnico di Milano.
 
+- 📝 My research bridges the gap between advanced civil engineering materials and data-driven computational mechanics. I focus on developing AI-enhanced multi-scale simulation frameworks to predict the performance of high-performance cementitious materials under extreme conditions, with applications in national mega-projects.
 ---
 
 ### 🔬 Research Focus

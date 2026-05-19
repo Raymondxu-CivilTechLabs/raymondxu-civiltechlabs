@@ -82,12 +82,6 @@
 
 ---
 
-## Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Raymondxu-CivilTechLabs&limit=5&theme=vue&combine_all_yearly_contributions=true)
-
----
-
 ### 🤝 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hi_raymondxu)

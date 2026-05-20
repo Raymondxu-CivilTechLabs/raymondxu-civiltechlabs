@@ -17,7 +17,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
-          plugin_languages: yes
+          # plugin_languages: yes
           plugin_languages_ignored: html, css, tex # 隐藏掉杂乱的辅助语言
-          plugin_habits: yes # 展示你的科研/编码习惯
+          # plugin_habits: yes # 展示你的科研/编码习惯
           plugin_habits_from: 200

@@ -61,12 +61,12 @@
 
 <table align="center" style="width: 100%; border: none;">
   <tr>
-    <td align="center" style="width: 60%;">
+    <td align="center" style="width: 40%;">
       <div style="height: 180px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
         <img src="https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=vue&show_icons=true" style="height: 100%; width: auto;" />
       </div>
     </td>
-    <td align="center" style="width: 40%;">
+    <td align="center" style="width: 60%;">
       <div style="height: 180px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
         <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Raymondxu-CivilTechLabs&theme=vue&layout=compact&langs_count=6" style="height: 100%; width: auto;" />
       </div>

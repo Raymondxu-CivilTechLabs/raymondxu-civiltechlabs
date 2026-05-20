@@ -1,6 +1,4 @@
 
-
-
 # 👋 Hello, I'm Xu Xuefeng (Raymond)
 
 <p align="center">

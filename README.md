@@ -59,13 +59,15 @@
 
 ## 📊 GitHub Stats
 
-<table align="center" border="0" style="border-collapse: collapse; width: 100%;">
+<table align="center" style="border: none;">
   <tr>
-    <td align="center" style="width: 50%; vertical-align: middle;">
-      <img src="https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=vue&show_icons=true" />
+    <td align="center" style="height: 200px; vertical-align: middle;">
+      <img src="https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=vue" 
+           style="max-height: 100%; width: auto;" />
     </td>
-    <td align="center" style="width: 50%; vertical-align: middle;">
-      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Raymondxu-CivilTechLabs&theme=vue&layout=compact&langs_count=7" />
+    <td align="center" style="height: 200px; vertical-align: middle;">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Raymondxu-CivilTechLabs&theme=vue&layout=compact" 
+           style="max-height: 100%; width: auto;" />
     </td>
   </tr>
 </table>

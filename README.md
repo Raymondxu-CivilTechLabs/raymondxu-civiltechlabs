@@ -62,11 +62,11 @@
 
 <table align="center" style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" style="width: 50%; vertical-align: middle;">
+    <td align="center" style="width: 45%; vertical-align: middle;">
       <img src="https://github-readme-stats.shion.dev/api?username=Raymondxu-CivilTechLabs&theme=vue&show_icons=true" 
            style="width: 95%; height: auto;" />
     </td>
-    <td align="center" style="width: 50%; vertical-align: middle;">
+    <td align="center" style="width: 55%; vertical-align: middle;">
       <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Raymondxu-CivilTechLabs&theme=vue&layout=compact&langs_count=6" 
            style="width: 95%; height: auto;" />
     </td>
